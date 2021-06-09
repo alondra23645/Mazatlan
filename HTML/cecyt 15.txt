@@ -1,0 +1,10 @@
+<html>
+        <head>
+                  <title> PAgina 1 </title>
+<body bgcolor="9C5141">
+<p> <center><b><H1>  CECYT 15 "DIDODORO ANTUNEZ ECHEGARAY"</H1></b></center></p>
+<HR>
+<HR>
+<FONT SIZE= 10><FONT FACE= CANDARA><FONT COLOR= WHITE>< Ubicacion </FONT></FONT>
+<p><FONT FACE= ARIAL><FONT SIZE=3>Dr. Gaston Melo 41, Tenantitla, Milpa Alta, 12100 San Antonio Tecómitl, CDMX</p>
+img src="cecyt.jpg"
